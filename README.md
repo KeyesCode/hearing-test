@@ -8,6 +8,12 @@ Hearing Check is a client-side hearing screening tool that allows users to asses
 
 **⚠️ Important:** This is a screening tool only, not a medical diagnosis. Results are not calibrated and should not replace professional hearing evaluations.
 
+### Screenshot
+
+![Test Results](public/screenshots/test-results.png)
+
+*Example test results showing an audiogram chart with left and right ear thresholds, screening interpretation, and next steps guidance.*
+
 ## Features
 
 - **Headphone Check**: Verifies left/right audio routing before testing
